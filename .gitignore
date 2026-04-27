@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+
+iBC53/
+outputs/
+repo_publish/
+
+.ipynb_checkpoints/
